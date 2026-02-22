@@ -1,4 +1,4 @@
-<h1>
+<h1 style="color: blue;">
   Hi there
   <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="30">
 </h1>
