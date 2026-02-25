@@ -4,11 +4,11 @@
   I'm Harryson
 </h1>
 
-<h3 align="center">Full-stack Developer 👨‍💻 | Systems Engineering Student </h3>
+<h3 align="center">Full-stack Developer | Systems Engineering Student </h3>
 
 <br />
 
 - Building Scalable Web Solutions & Management Systems
-- Focusing on Automation, CI/CD Workflows, and Modern Architectures 🌐
+- Focusing on Automation, CI/CD Workflows, and Modern Architectures 
 
 <hr />
