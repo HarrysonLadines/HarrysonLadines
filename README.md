@@ -1,22 +1,14 @@
-<div align="center">
+<h1 align="center">
+  Hi there 
+  <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="35" style="vertical-align: middle;">, 
+  I'm Harryson
+</h1>
 
-  <h1>
-    Hi there 
-    <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="35" style="vertical-align: middle;">, 
-    I'm Harryson
-  </h1>
+<h3 align="center">Full-stack Developer 👨‍💻 | Systems Engineering Student </h3>
 
-  <p>
-    <strong>Full-stack Developer 👨‍💻 | Systems Engineering Student 🎓 </strong>
-  </p>
+<br />
 
-  <p>
-    Building Scalable Web Solutions & Management Systems
-  </p>
+- Building Scalable Web Solutions & Management Systems
+- Focusing on Automation, CI/CD Workflows, and Modern Architectures 🌐
 
-  <p>
-    Focusing on Automation, CI/CD Workflows, and Modern Architectures 🌐
-  </p>
-
-  <hr />
-</div>
+<hr />
