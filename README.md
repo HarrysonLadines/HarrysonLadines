@@ -7,5 +7,5 @@ I’m Harryson, a systems engineering student and full-stack developer. I enjoy 
 These days I’m focused on:
 
 - TypeScript, Node.js, React
-- APIs and system architecture
-- Automation and backend systems
+- System architecture
+- AI Automation and backend systems
