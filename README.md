@@ -1,14 +1,11 @@
-<h1 align="center">
-  Hi there 
-  <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="35" style="vertical-align: middle;">, 
-  I'm Harryson
-</h1>
+<h2>
+  Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="28">
+</h2>
 
-<h3 align="center">Full-stack Developer | Systems Engineering Student </h3>
+I’m Harryson, a systems engineering student and full-stack developer. I enjoy building clean, practical software from web applications to management systems.
 
-<br />
+These days I’m focused on:
 
-- Building Scalable Web Solutions & Management Systems
-- Focusing on Automation, CI/CD Workflows, and Modern Architectures 
-
-<hr />
+- TypeScript, Node.js, React
+- APIs and system architecture
+- Automation and backend systems
